@@ -1,0 +1,23 @@
+{
+  "name": "Ditzza",
+  "version": "0.0.1",
+  "description": " hi ",
+  "readme": "README.md",
+  "author": "A4J7",
+  "repository": {},
+  "bugs": {},
+  "keywords": [
+    "discord",
+    "bot",
+    "discordapp"
+  ],
+  "license": "MIT",
+  "main": "bot.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "winston": "^3.2.1"
+  }
+}
